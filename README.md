@@ -15,7 +15,6 @@ https://www.python.org/
 
 * **Carlos Trejo** - [MrKato](https://github.com/MrKato)
 * **Minh Luu** - [Minhluu2000](https://github.com/minhluu2000)
-* **Linh**
 
 ## License
 
