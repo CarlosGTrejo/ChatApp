@@ -4,11 +4,12 @@ A basic chat app made with python 3.7
 
 ### Prerequisites
 
-1. Python 3.7 (or 3.6)
-2. A Network
+1. Python 3.6
+2. Free PubNub account with Publish/Subscribe Keys
 
 ```
 https://www.python.org/
+https://www.pubnub.com/pricing/
 ```
 
 ## Authors/Contributors
